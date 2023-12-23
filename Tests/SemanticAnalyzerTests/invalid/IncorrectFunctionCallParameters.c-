@@ -1,0 +1,5 @@
+void foo ( int bar[] ) { }
+void main ( void ) {
+int x;
+foo(x);
+}

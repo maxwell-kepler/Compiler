@@ -1,0 +1,6 @@
+void foo(int x, int y[]){}
+
+void main (void){
+    int a[10];
+    foo(a[1],a);
+}
