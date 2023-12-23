@@ -1,0 +1,5 @@
+void main (void){
+    x = 1;
+    x[1] = 10;
+    a = b = c;
+}

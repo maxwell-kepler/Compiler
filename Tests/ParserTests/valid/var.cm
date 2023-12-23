@@ -1,0 +1,5 @@
+void main (void) {
+    a;
+    a[10];
+    a[2+b];
+}

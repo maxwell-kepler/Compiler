@@ -1,0 +1,11 @@
+int first;
+
+void second (int third, int fourth[]){
+    int fifth;
+    int sixth[6];
+    fifth=5;
+    sixth[0]=6;
+}
+
+int seventh[10];
+void eight(void){}

@@ -1,0 +1,4 @@
+void main (void){
+    foo();
+    bar(a,1+233*b,foo());
+}

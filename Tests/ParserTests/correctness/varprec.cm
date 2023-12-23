@@ -1,0 +1,4 @@
+/* should be interpreted as a=(b=(c=d)) */
+void main(void){
+    a=b=c=d;
+}
