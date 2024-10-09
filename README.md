@@ -1,6 +1,3 @@
-# README for CPSC 411 - Assignment 3 - Semantic Analyzer for C-
-
-## Maxwell Kepler 30093950
 
 ## NEW CHANGES
 scanner.l: 
@@ -17,26 +14,6 @@ how to run the code:
 2.      bison -dvo parser.c parser.y
 3.      gcc scanner.c parser.c
 4.      ./a.out filepath
-
-Everything above this are the changes I've made
-////////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Instructions on how to run the project
 
